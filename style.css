@@ -80,7 +80,12 @@ input#enter{
         width: 95%;
         padding: 13px;
         text-align: inherit;}
-    
+    main.torso{
+        width: 400px;
+        height: 400px;
+
+        padding: 5px;
+    }
     img.capa{
         position: relative;
         left: 1px;
