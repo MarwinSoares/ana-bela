@@ -75,6 +75,11 @@ input#enter{
     header.cabeça{
         width: 450px;
      }
+     nav#pescoço{
+        background-color: #0b0b0a9c;
+        width: 95%;
+        padding: 13px;
+        text-align: inherit;}
     
     img.capa{
         position: relative;
