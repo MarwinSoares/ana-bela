@@ -79,15 +79,15 @@ input#enter{
 #enter:hover{
     background-color: rgb(31, 145, 31);
 }
-/*@media(max-width:600px){
-    header.cabeça{
+@media(max-width:600px){
+    /*header.cabeça{
         width: 450px;
      }
      nav#pescoço{
         background-color: #0b0b0a9c;
         width: 400px;
         padding: 13px;
-        text-align: justify;}
+        text-align: justify;}*/
 
     img.capa{
         position: relative;
@@ -95,5 +95,5 @@ input#enter{
         
     }
     
-}*/
+}
 
