@@ -57,6 +57,7 @@ p.login{
 }
 
 img.img{
+    width: 50%;
     position: relative;
     left: 125px;
     border: 10px solid #c3c3ae;
