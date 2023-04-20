@@ -1,0 +1,80 @@
+@charset "utf8";
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #dfdfdf;
+}
+
+header#cabeça{
+    width: 80%;
+    position: relative;
+    left: 15%;
+}
+nav#pescoço{
+    background-color: #0b0b0a9c;
+    width: 98%;
+    padding: 13px;
+    text-align: inherit;
+
+}
+a.osso{
+    color: #c5c2c2;
+    font-size: 23px;
+    text-decoration: none;
+    padding: 15px;
+}
+a.osso:hover{
+    text-decoration: underline;
+}
+
+main.torso{
+    background-color: white;
+    margin: 5px;
+    margin-left: 15%;
+    padding: 5px;
+
+    width: 66%;
+    height: 100%;
+}
+
+h2.osso{
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p.ossos{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+p.login{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    margin-left: 0px;
+}
+
+img.img{
+    position: relative;
+    left: 125px;
+    border: 10px solid #c3c3ae;
+}
+
+input#enter{
+    border-radius: 30px;
+    border: 1px solid green;
+    background-color: rgb(33 148 33);
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    display: block;
+   
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
