@@ -7,7 +7,7 @@ body{
     background-color: #dfdfdf;
 }
 
-header#cabeça{
+header.cabeça{
    width: 550px;
 }
 nav#pescoço{
@@ -71,5 +71,16 @@ input#enter{
     display: block;
    
 }
-
+@media(max-width:600px){
+    header.cabeça{
+        width: 450px;
+     }
+    
+    img.capa{
+        position: relative;
+        left: 10px;
+        
+    }
+    
+}
 
