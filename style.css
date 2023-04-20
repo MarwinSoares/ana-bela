@@ -31,11 +31,8 @@ a.osso:hover{
 
 main.torso{
     background-color: white;
-    margin: 5px;
-    margin-left: 15%;
     padding: 5px;
-
-    width: 66%;
+    width: 99%;
     height: 100%;
 }
 
@@ -62,7 +59,10 @@ img.img{
     left: 125px;
     border: 10px solid #c3c3ae;
 }
-
+img#capa{
+    position: relative;
+    left: 15%;
+}
 input#enter{
     border-radius: 30px;
     border: 1px solid green;
