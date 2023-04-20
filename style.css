@@ -8,9 +8,7 @@ body{
 }
 
 header#cabeça{
-    width: 80%;
-    position: relative;
-    left: 15%;
+   width: 550px;
 }
 nav#pescoço{
     background-color: #0b0b0a9c;
@@ -59,7 +57,7 @@ img.img{
     left: 125px;
     border: 10px solid #c3c3ae;
 }
-img#capa{
+img.capa{
     position: relative;
     left: 15%;
 }
