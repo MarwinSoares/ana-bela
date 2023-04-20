@@ -68,14 +68,16 @@ img.capa{
     left: 200px;
 }
 input#enter{
-    border-radius: 30px;
+    /*border-radius: 30px;
     border: 1px solid green;
     background-color: rgb(33 148 33);
-    color: white;
+    color: white;*/
     font-size: 30px;
     padding: 10px;
-    display: block;
    
+}
+#enter:hover{
+    background-color: rgb(31, 145, 31);
 }
 /*@media(max-width:600px){
     header.cabeça{
